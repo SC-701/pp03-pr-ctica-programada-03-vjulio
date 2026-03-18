@@ -1,5 +1,4 @@
 <Solution>
-  <Project Path="../Vehiculos.WEB/Web/Web.csproj" Id="e76ca0af-f95a-4652-8361-b81731424708" />
   <Project Path="Abstracciones/Abstracciones.csproj" Id="88c98bb0-e81c-470a-aec6-8ccabcd1665d" />
   <Project Path="API/API.csproj" Id="d6348321-73d4-490d-88ef-4e2e84934c99" />
   <Project Path="BD/BD.sqlproj" Id="481ce4ea-d4da-462c-ac10-10c7c5482dd1">
@@ -10,8 +9,4 @@
   <Project Path="Flujo/Flujo.csproj" Id="78edae36-23f1-46b0-8efb-25644dc5edea" />
   <Project Path="Reglas/Reglas.csproj" Id="d5ad8980-4567-48f2-b60c-976559a1442a" />
   <Project Path="Servicios/Servicios.csproj" Id="8304ded6-edb0-4f0c-b5e1-96d784cf2d06" />
-  <Properties Name="Visual Studio">
-    <Property Name="OpenWith" Value="Visual Studio Version 18" />
-    <Property Name="SolutionId" Value="069d72bf-92d2-444a-b52c-3214cdcfefe3" />
-  </Properties>
 </Solution>
